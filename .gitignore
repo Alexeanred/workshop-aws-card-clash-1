@@ -1,0 +1,9 @@
+/public/
+/resources/
+/archetypes/
+/content/
+/static/
+/.github/
+/layouts/
+/themes/
+.DS_Store
